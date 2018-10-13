@@ -4,7 +4,7 @@
 - zzz
 - xxx
   
-[Google](https://www.google.co.jp/)  
+[Mr.Google](https://www.google.co.jp/)  
 ```
 #include<stdio.h>
 main()
