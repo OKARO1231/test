@@ -1,7 +1,5 @@
 # test
 ## this is a test
-1.www
-2.yyy
 - zzz
 - xxx
 ```
