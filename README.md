@@ -4,3 +4,10 @@
 2.yyy
 - zzz
 - xxx
+```
+#include<stdio.h>
+main()
+{
+  printf("Hello\n");
+  return 0;
+}
