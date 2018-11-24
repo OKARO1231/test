@@ -1,5 +1,4 @@
-#from atom
-##これはatomからのテストです
+# from atom
+## これはatomからのテストです
 
 print "Hello Atom!!"
-  
